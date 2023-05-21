@@ -12,6 +12,5 @@ public:
         }
         return (~n)&x;
         //m = ~m;
-        return m;
     }
 };
